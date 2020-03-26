@@ -10,6 +10,7 @@ using MVCDemo.Models;
 
 namespace MVCDemo.Controllers
 {
+    //A change
     [Authorize]
     public class MembershipsController : Controller
     {
